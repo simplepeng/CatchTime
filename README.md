@@ -1,7 +1,6 @@
----
-typora-root-url: image
----
-
 ## CatchTime
 
-![Screenshot_20180313-153701](/Screenshot_20180313-153701.jpg)
+![](https://raw.githubusercontent.com/simplepeng/CatchTime/master/image/Screenshot_20180313-153701.jpg)
+
+
+
