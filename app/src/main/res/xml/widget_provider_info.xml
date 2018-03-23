@@ -3,5 +3,5 @@
     android:initialLayout="@layout/widget_catch_time"
     android:minHeight="110dp"
     android:minWidth="110dp"
-    android:previewImage="@mipmap/ic_launcher"
+    android:previewImage="@mipmap/ct3"
     android:updatePeriodMillis="864000" />
